@@ -20,7 +20,7 @@
         "LowerNickname": "ray",
         "Side": "Usec",
         "Level": 8,
-        "Experience": 48291,
+        "Experience": 49136,
         "RegistrationDate": 1765033629,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -88,8 +88,7 @@
             "Health": {
               "Current": 60,
               "Maximum": 60
-            },
-            "Effects": {}
+            }
           },
           "LeftLeg": {
             "Health": {
@@ -119,7 +118,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1765207559
+        "UpdateTime": 1765248821
       },
       "Inventory": {
         "items": [
@@ -652,7 +651,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 143615
+              "StackObjectsCount": 96908
             }
           },
           {
@@ -830,20 +829,6 @@
             "slotId": "main",
             "location": {
               "x": 3,
-              "y": 0,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 20
-            }
-          },
-          {
-            "_id": "6934469df3f1df588453a8e7",
-            "_tpl": "560d5e524bdc2d25448b4571",
-            "parentId": "6934469df3f1df588453a94b",
-            "slotId": "main",
-            "location": {
-              "x": 4,
               "y": 0,
               "r": "Horizontal"
             },
@@ -1955,68 +1940,6 @@
             "upd": {
               "StackObjectsCount": 17
             }
-          },
-          {
-            "_id": "6934469df3f1df588453a9a7",
-            "_tpl": "5e870397991fd70db46995c8",
-            "parentId": "6934469df3f1df588453a94a",
-            "slotId": "main",
-            "location": {
-              "x": 0,
-              "y": 9,
-              "r": "Horizontal"
-            }
-          },
-          {
-            "_id": "6934469df3f1df588453a9a8",
-            "_tpl": "5e87071478f43e51ca2de5e1",
-            "parentId": "6934469df3f1df588453a9a7",
-            "slotId": "mod_barrel"
-          },
-          {
-            "_id": "6934469df3f1df588453a9a9",
-            "_tpl": "5e8708d4ae379e67d22e0102",
-            "parentId": "6934469df3f1df588453a9a8",
-            "slotId": "mod_sight_front"
-          },
-          {
-            "_id": "6934469df3f1df588453a9aa",
-            "_tpl": "5e87076ce2db31558c75a11d",
-            "parentId": "6934469df3f1df588453a9a7",
-            "slotId": "mod_handguard"
-          },
-          {
-            "_id": "6934469df3f1df588453a9ab",
-            "_tpl": "5e87080c81c4ed43e83cefda",
-            "parentId": "6934469df3f1df588453a9a7",
-            "slotId": "mod_magazine"
-          },
-          {
-            "_id": "6934469df3f1df588453a9ac",
-            "_tpl": "560d5e524bdc2d25448b4571",
-            "parentId": "6934469df3f1df588453a9ab",
-            "slotId": "cartridges",
-            "upd": {
-              "StackObjectsCount": 8
-            }
-          },
-          {
-            "_id": "6934469df3f1df588453a9ad",
-            "_tpl": "5e87116b81c4ed43e83cefdd",
-            "parentId": "6934469df3f1df588453a9a7",
-            "slotId": "mod_stock"
-          },
-          {
-            "_id": "6934469df3f1df588453a9ae",
-            "_tpl": "5e87114fe2db31558c75a120",
-            "parentId": "6934469df3f1df588453a9a7",
-            "slotId": "mod_mount"
-          },
-          {
-            "_id": "6934469df3f1df588453a9af",
-            "_tpl": "560d5e524bdc2d25448b4571",
-            "parentId": "6934469df3f1df588453a9a7",
-            "slotId": "patron_in_weapon"
           },
           {
             "_id": "6934469df3f1df588453a9b0",
@@ -3723,13 +3646,8 @@
           {
             "_id": "6936625a67528c8890bd7840",
             "_tpl": "64be7110bf597ba84a0a41ea",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 4,
-              "y": 29,
-              "r": "Horizontal"
-            },
+            "parentId": "6934469df3f1df588453a852",
+            "slotId": "TacticalVest",
             "upd": {
               "SpawnedInSession": true
             }
@@ -4830,23 +4748,6 @@
             }
           },
           {
-            "_id": "6936c9c3e3a57346e0c292a4",
-            "_tpl": "590c5d4b86f774784e1b9c45",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 2,
-              "y": 21,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "FoodDrink": {
-                "HpPercent": 1
-              }
-            }
-          },
-          {
             "_id": "6936c9c3e3a57346e0c28f08",
             "_tpl": "5be4038986f774527d3fae60",
             "parentId": "664115f68b8ae85875060b39",
@@ -5332,16 +5233,6 @@
             }
           },
           {
-            "_id": "6934469df3f1df588453a852",
-            "_tpl": "55d7217a4bdc2d86028b456d"
-          },
-          {
-            "_id": "6934469df3f1df588453a96f",
-            "_tpl": "660312cc4d6cdfa6f500c703",
-            "parentId": "6934469df3f1df588453a852",
-            "slotId": "ArmBand"
-          },
-          {
             "_id": "6936e282e3a57346e0c70b1f",
             "_tpl": "5aa2b986e5b5b00014028f4c",
             "parentId": "664115f68b8ae85875060b39",
@@ -5356,50 +5247,13 @@
             }
           },
           {
-            "_id": "6747193f170146228c0d2226",
-            "_tpl": "6662ea05f6259762c56f3189",
-            "parentId": "6934469df3f1df588453a852",
-            "slotId": "Dogtag",
-            "upd": {
-              "Resource": {
-                "Value": 0
-              },
-              "Dogtag": {
-                "AccountId": "",
-                "ProfileId": "693445d2f3f1df588453a850",
-                "Nickname": "",
-                "Side": 0,
-                "Level": 0,
-                "Time": "0001-01-01T00:00:00",
-                "Status": "",
-                "KillerAccountId": "",
-                "KillerProfileId": "",
-                "KillerName": "",
-                "WeaponName": "",
-                "CarriedByGroupMember": false
-              }
-            }
-          },
-          {
-            "_id": "6934469df3f1df588453a8f2",
-            "_tpl": "5c165d832e2216398b5a7e36",
-            "parentId": "6934469df3f1df588453a852",
-            "slotId": "Earpiece"
-          },
-          {
-            "_id": "6934469df3f1df588453a875",
-            "_tpl": "65e080be269cbd5c5005e529",
-            "parentId": "6934469df3f1df588453a852",
-            "slotId": "Pockets"
-          },
-          {
             "_id": "6936e282e3a57346e0c709e2",
             "_tpl": "576a5ed62459771e9c2096cb",
-            "parentId": "6934469df3f1df588453a875",
-            "slotId": "pocket4",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 0,
-              "y": 0,
+              "x": 9,
+              "y": 43,
               "r": "Horizontal"
             },
             "upd": {
@@ -5415,56 +5269,6 @@
             "upd": {
               "StackObjectsCount": 18
             }
-          },
-          {
-            "_id": "6936c9bbe3a57346e0c283c3",
-            "_tpl": "564ca99c4bdc2d16268b4589",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "3",
-            "location": {
-              "x": 0,
-              "y": 0,
-              "r": "Horizontal"
-            }
-          },
-          {
-            "_id": "6936d30901001943c633f6ac",
-            "_tpl": "56dff4ecd2720b5f5a8b4568",
-            "parentId": "6936c9bbe3a57346e0c283c3",
-            "slotId": "cartridges",
-            "location": 0,
-            "upd": {
-              "StackObjectsCount": 30
-            }
-          },
-          {
-            "_id": "6936b84370c658b9b03183a3",
-            "_tpl": "544fb3364bdc2d34748b456a",
-            "parentId": "6934469df3f1df588453a875",
-            "slotId": "pocket1",
-            "location": {
-              "x": 0,
-              "y": 0,
-              "r": "Horizontal"
-            }
-          },
-          {
-            "_id": "6936e282e3a57346e0c70b54",
-            "_tpl": "5d02797c86f774203f38e30a",
-            "parentId": "6934469df3f1df588453a875",
-            "slotId": "SpecialSlot1",
-            "upd": {
-              "SpawnedInSession": true,
-              "MedKit": {
-                "HpResource": 4
-              }
-            }
-          },
-          {
-            "_id": "6936b84870c658b9b031a588",
-            "_tpl": "56e335e4d2720b6c058b456d",
-            "parentId": "6934469df3f1df588453a852",
-            "slotId": "Backpack"
           },
           {
             "_id": "6936e282e3a57346e0c70a32",
@@ -5644,131 +5448,6 @@
             }
           },
           {
-            "_id": "6934469df3f1df588453a86b",
-            "_tpl": "665ee77ccf2d642e98220bca",
-            "parentId": "6934469df3f1df588453a852",
-            "slotId": "SecuredContainer"
-          },
-          {
-            "_id": "6936c9c3e3a57346e0c29650",
-            "_tpl": "62a09d3bcf4a99369e262447",
-            "parentId": "6934469df3f1df588453a86b",
-            "slotId": "main",
-            "location": {
-              "x": 2,
-              "y": 1,
-              "r": "Horizontal"
-            }
-          },
-          {
-            "_id": "6936e282e3a57346e0c6fc49",
-            "_tpl": "59148c8a86f774197930e983",
-            "parentId": "6936c9c3e3a57346e0c29650",
-            "slotId": "main",
-            "location": {
-              "x": 0,
-              "y": 1,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Key": {
-                "NumberOfUsages": 0
-              }
-            }
-          },
-          {
-            "_id": "6936e282e3a57346e0c704c7",
-            "_tpl": "593aa4be86f77457f56379f8",
-            "parentId": "6936c9c3e3a57346e0c29650",
-            "slotId": "main",
-            "location": {
-              "x": 1,
-              "y": 0,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Key": {
-                "NumberOfUsages": 0
-              }
-            }
-          },
-          {
-            "_id": "6936e282e3a57346e0c70a38",
-            "_tpl": "5a13eebd86f7746fd639aa93",
-            "parentId": "6936c9c3e3a57346e0c29650",
-            "slotId": "main",
-            "location": {
-              "x": 0,
-              "y": 0,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Key": {
-                "NumberOfUsages": 0
-              }
-            }
-          },
-          {
-            "_id": "6936b84870c658b9b031929c",
-            "_tpl": "5783c43d2459774bbe137486",
-            "parentId": "6934469df3f1df588453a86b",
-            "slotId": "main",
-            "location": {
-              "x": 2,
-              "y": 0,
-              "r": "Horizontal"
-            }
-          },
-          {
-            "_id": "6936b84370c658b9b03181fe",
-            "_tpl": "5449016a4bdc2d6f028b456f",
-            "parentId": "6936b84870c658b9b031929c",
-            "slotId": "main",
-            "location": {
-              "x": 0,
-              "y": 0,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 38473
-            }
-          },
-          {
-            "_id": "6934469df3f1df588453a8f5",
-            "_tpl": "5af0454c86f7746bf20992e8",
-            "parentId": "6934469df3f1df588453a86b",
-            "slotId": "main",
-            "location": {
-              "x": 0,
-              "y": 2,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "MedKit": {
-                "HpResource": 4
-              }
-            }
-          },
-          {
-            "_id": "6934469df3f1df588453a91b",
-            "_tpl": "590c657e86f77412b013051d",
-            "parentId": "6934469df3f1df588453a86b",
-            "slotId": "main",
-            "location": {
-              "x": 0,
-              "y": 0,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "MedKit": {
-                "HpResource": 1721
-              }
-            }
-          },
-          {
             "_id": "6936e282e3a57346e0c70b95",
             "_tpl": "5d0375ff86f774186372f685",
             "parentId": "6934469df3f1df588453a94c",
@@ -5782,28 +5461,6 @@
               "SpawnedInSession": true,
               "Resource": {
                 "Value": 0
-              }
-            }
-          },
-          {
-            "_id": "6936b84870c658b9b031a980",
-            "_tpl": "66b6296d7994640992013b17",
-            "parentId": "6934469df3f1df588453a852",
-            "slotId": "TacticalVest"
-          },
-          {
-            "_id": "6936b84870c658b9b031ac67",
-            "_tpl": "590c657e86f77412b013051d",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "7",
-            "location": {
-              "x": 0,
-              "y": 0,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "MedKit": {
-                "HpResource": 1365
               }
             }
           },
@@ -5822,31 +5479,6 @@
               "Resource": {
                 "Value": 0
               }
-            }
-          },
-          {
-            "_id": "6936c8bbe3a57346e0c254a1",
-            "_tpl": "55d480c04bdc2d1d4e8b456a",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "6",
-            "location": {
-              "x": 0,
-              "y": 0,
-              "r": "Horizontal"
-            }
-          },
-          {
-            "_id": "6936e282e3a57346e0c6fb6e",
-            "_tpl": "55d480c04bdc2d1d4e8b456a",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "5",
-            "location": {
-              "x": 0,
-              "y": 0,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true
             }
           },
           {
@@ -5878,20 +5510,6 @@
               "Resource": {
                 "Value": 0
               }
-            }
-          },
-          {
-            "_id": "6936e282e3a57346e0c703f4",
-            "_tpl": "55d480c04bdc2d1d4e8b456a",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "4",
-            "location": {
-              "x": 0,
-              "y": 0,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true
             }
           },
           {
@@ -5943,133 +5561,6 @@
             }
           },
           {
-            "_id": "6936c9c3e3a57346e0c29930",
-            "_tpl": "5e8488fa988a8701445df1e4",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "2",
-            "location": {
-              "x": 1,
-              "y": 0,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "MedKit": {
-                "HpResource": 2.374615
-              }
-            }
-          },
-          {
-            "_id": "6936c950e3a57346e0c270df",
-            "_tpl": "544fb25a4bdc2dfb738b4567",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "2",
-            "location": {
-              "x": 0,
-              "y": 0,
-              "r": "Horizontal"
-            }
-          },
-          {
-            "_id": "6936c9c3e3a57346e0c2963b",
-            "_tpl": "60098ad7c2240c0fe85c570a",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "1",
-            "location": {
-              "x": 1,
-              "y": 0,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "MedKit": {
-                "HpResource": 266
-              }
-            }
-          },
-          {
-            "_id": "6936b84870c658b9b031a983",
-            "_tpl": "66b884fd7994640992013b37",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "Groin",
-            "upd": {
-              "Repairable": {
-                "Durability": 15.04907,
-                "MaxDurability": 15.04907
-              }
-            }
-          },
-          {
-            "_id": "6936b84870c658b9b031a987",
-            "_tpl": "66b88521a7f72d197e70be3b",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "soft_armor_right",
-            "upd": {
-              "Repairable": {
-                "Durability": 7.23955,
-                "MaxDurability": 7.23955
-              }
-            }
-          },
-          {
-            "_id": "6936b84870c658b9b031a986",
-            "_tpl": "66b8851678bbc0200425fa03",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "Soft_armor_left",
-            "upd": {
-              "Repairable": {
-                "Durability": 7.59254,
-                "MaxDurability": 7.59254
-              }
-            }
-          },
-          {
-            "_id": "6936b84870c658b9b031a984",
-            "_tpl": "66b884eaacff495a29492849",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "Soft_armor_back",
-            "upd": {
-              "Repairable": {
-                "Durability": 34.15643,
-                "MaxDurability": 34.15643
-              }
-            }
-          },
-          {
-            "_id": "6936b84870c658b9b031a985",
-            "_tpl": "66b884f4c5d72b02774886eb",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "Soft_armor_front",
-            "upd": {
-              "Repairable": {
-                "Durability": 33.7191,
-                "MaxDurability": 34.88671
-              }
-            }
-          },
-          {
-            "_id": "6936b84870c658b9b031a981",
-            "_tpl": "656fac30c6baea13cd07e10c",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "Back_plate",
-            "upd": {
-              "Repairable": {
-                "Durability": 31.86438,
-                "MaxDurability": 31.86438
-              }
-            }
-          },
-          {
-            "_id": "6936b84870c658b9b031a982",
-            "_tpl": "656f9d5900d62bcd2e02407c",
-            "parentId": "6936b84870c658b9b031a980",
-            "slotId": "Front_plate",
-            "upd": {
-              "Repairable": {
-                "Durability": 31.1438484,
-                "MaxDurability": 39.14385
-              }
-            }
-          },
-          {
             "_id": "6936e282e3a57346e0c70b25",
             "_tpl": "5bd073c986f7747f627e796c",
             "parentId": "664115f68b8ae85875060b39",
@@ -6084,22 +5575,15 @@
             }
           },
           {
-            "_id": "6934469df3f1df588453a90f",
-            "_tpl": "57cd379a24597778e7682ecf",
-            "parentId": "6934469df3f1df588453a852",
-            "slotId": "Scabbard",
-            "upd": {
-              "Repairable": {
-                "Durability": 100,
-                "MaxDurability": 100
-              }
-            }
-          },
-          {
             "_id": "6936e282e3a57346e0c709c5",
             "_tpl": "576a581d2459771e7b1bc4f1",
-            "parentId": "6934469df3f1df588453a852",
-            "slotId": "Holster",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 7,
+              "y": 43,
+              "r": "Horizontal"
+            },
             "upd": {
               "Repairable": {
                 "Durability": 55,
@@ -6169,66 +5653,12 @@
             }
           },
           {
-            "_id": "6936c906e3a57346e0c2628a",
-            "_tpl": "5648ac824bdc2ded0b8b457d",
-            "parentId": "6936f4f3e3a57346e0c99f0a",
-            "slotId": "mod_charge"
-          },
-          {
-            "_id": "6936c9c3e3a57346e0c291b9",
-            "_tpl": "57486e672459770abd687134",
-            "parentId": "6936f4f3e3a57346e0c99f0a",
-            "slotId": "mod_mount_000",
-            "upd": {
-              "Sight": {
-                "ScopesCurrentCalibPointIndexes": [
-                  0
-                ],
-                "ScopesSelectedModes": [
-                  0
-                ],
-                "SelectedScope": 0,
-                "ScopeZoomValue": 0
-              }
-            }
-          },
-          {
             "_id": "6936e282e3a57346e0c6fb72",
             "_tpl": "55d480c04bdc2d1d4e8b456a",
             "parentId": "693642443ba8bd3ac82a7609",
             "slotId": "mod_magazine",
             "upd": {
               "SpawnedInSession": true
-            }
-          },
-          {
-            "_id": "693642443ba8bd3ac82a7618",
-            "_tpl": "6386300124a1dc425c00577a",
-            "parentId": "6936f4f3e3a57346e0c99f0a",
-            "slotId": "mod_stock"
-          },
-          {
-            "_id": "69368f4422ce77d6a0685c44",
-            "_tpl": "5a0c59791526d8dba737bba7",
-            "parentId": "693642443ba8bd3ac82a7618",
-            "slotId": "mod_stock"
-          },
-          {
-            "_id": "693642443ba8bd3ac82a761c",
-            "_tpl": "5ac72e475acfc400180ae6fe",
-            "parentId": "6936f4f3e3a57346e0c99f0a",
-            "slotId": "mod_sight_rear",
-            "upd": {
-              "Sight": {
-                "ScopesCurrentCalibPointIndexes": [
-                  0
-                ],
-                "ScopesSelectedModes": [
-                  0
-                ],
-                "SelectedScope": 0,
-                "ScopeZoomValue": 0
-              }
             }
           },
           {
@@ -6247,49 +5677,6 @@
                 ],
                 "SelectedScope": 0,
                 "ScopeZoomValue": 0
-              }
-            }
-          },
-          {
-            "_id": "693642443ba8bd3ac82a760a",
-            "_tpl": "5ac50da15acfc4001718d287",
-            "parentId": "6936f4f3e3a57346e0c99f0a",
-            "slotId": "mod_reciever"
-          },
-          {
-            "_id": "693642443ba8bd3ac82a760c",
-            "_tpl": "5649ade84bdc2d1b2b8b4587",
-            "parentId": "6936f4f3e3a57346e0c99f0a",
-            "slotId": "mod_pistol_grip"
-          },
-          {
-            "_id": "693642443ba8bd3ac82a761e",
-            "_tpl": "5ac7655e5acfc40016339a19",
-            "parentId": "6936f4f3e3a57346e0c99f0a",
-            "slotId": "mod_muzzle"
-          },
-          {
-            "_id": "693642443ba8bd3ac82a760d",
-            "_tpl": "59c6633186f7740cf0493bb9",
-            "parentId": "6936f4f3e3a57346e0c99f0a",
-            "slotId": "mod_gas_block"
-          },
-          {
-            "_id": "693642443ba8bd3ac82a7615",
-            "_tpl": "5648b4534bdc2d3d1c8b4580",
-            "parentId": "693642443ba8bd3ac82a760d",
-            "slotId": "mod_handguard"
-          },
-          {
-            "_id": "6936e282e3a57346e0c70889",
-            "_tpl": "5cc9c20cd7f00c001336c65d",
-            "parentId": "693642443ba8bd3ac82a7615",
-            "slotId": "mod_tactical_002",
-            "upd": {
-              "SpawnedInSession": true,
-              "Light": {
-                "IsActive": true,
-                "SelectedMode": 0
               }
             }
           },
@@ -6316,16 +5703,6 @@
                 "ScopeZoomValue": 0
               }
             }
-          },
-          {
-            "_id": "6936c911e3a57346e0c2628b",
-            "_tpl": "5c1bc7752e221602b1779b34",
-            "parentId": "693642443ba8bd3ac82a7615",
-            "slotId": "mod_foregrip"
-          },
-          {
-            "_id": "664115f68b8ae85875060b3a",
-            "_tpl": "5963866286f7747bf429b572"
           },
           {
             "_id": "6936e45be3a57346e0c771c7",
@@ -6606,26 +5983,6 @@
             }
           },
           {
-            "_id": "6936ef06e3a57346e0c8d905",
-            "_tpl": "56dff4ecd2720b5f5a8b4568",
-            "parentId": "6936c8bbe3a57346e0c254a1",
-            "slotId": "cartridges",
-            "location": 0,
-            "upd": {
-              "StackObjectsCount": 30
-            }
-          },
-          {
-            "_id": "6936ef06e3a57346e0c8d906",
-            "_tpl": "56dff4ecd2720b5f5a8b4568",
-            "parentId": "6936e282e3a57346e0c6fb6e",
-            "slotId": "cartridges",
-            "location": 0,
-            "upd": {
-              "StackObjectsCount": 30
-            }
-          },
-          {
             "_id": "6936eeda01001943c6655b18",
             "_tpl": "56dff4ecd2720b5f5a8b4568",
             "parentId": "6936e282e3a57346e0c6fb72",
@@ -6633,31 +5990,6 @@
             "location": 0,
             "upd": {
               "StackObjectsCount": 30
-            }
-          },
-          {
-            "_id": "6936ef2b01001943c62ee483",
-            "_tpl": "56dff4ecd2720b5f5a8b4568",
-            "parentId": "6936e282e3a57346e0c703f4",
-            "slotId": "cartridges",
-            "location": 0,
-            "upd": {
-              "StackObjectsCount": 30
-            }
-          },
-          {
-            "_id": "6936f4f3e3a57346e0c99f0a",
-            "_tpl": "5ac66d9b5acfc4001633997a",
-            "parentId": "6934469df3f1df588453a852",
-            "slotId": "FirstPrimaryWeapon",
-            "upd": {
-              "sptPresetId": "5acf7e7986f774401e19c3a0",
-              "StackObjectsCount": 1,
-              "Repairable": {
-                "Durability": 95.90880200000001,
-                "MaxDurability": 95.90880200000001
-              },
-              "SpawnedInSession": false
             }
           },
           {
@@ -6726,8 +6058,13 @@
           {
             "_id": "6936f4f3e3a57346e0c99f13",
             "_tpl": "55d480c04bdc2d1d4e8b456a",
-            "parentId": "6936f4f3e3a57346e0c99f0a",
-            "slotId": "mod_magazine",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 1,
+              "y": 43,
+              "r": "Horizontal"
+            },
             "upd": {
               "SpawnedInSession": false
             }
@@ -6746,6 +6083,397 @@
               "StackObjectsCount": 1,
               "SpawnedInSession": true
             }
+          },
+          {
+            "_id": "6937807dd90b0a68403b6159",
+            "_tpl": "654a90aff4f81a421b0a7c86",
+            "parentId": "6937807dd90b0a68403b6158",
+            "slotId": "helmet_top",
+            "upd": {
+              "Repairable": {
+                "Durability": 15,
+                "MaxDurability": 15
+              }
+            }
+          },
+          {
+            "_id": "6937807dd90b0a68403b615a",
+            "_tpl": "654a91068e1ce698150fd1e2",
+            "parentId": "6937807dd90b0a68403b6158",
+            "slotId": "helmet_back",
+            "upd": {
+              "Repairable": {
+                "Durability": 15,
+                "MaxDurability": 15
+              }
+            }
+          },
+          {
+            "_id": "6937807dd90b0a68403b615b",
+            "_tpl": "654a9189bcc67a392b056c79",
+            "parentId": "6937807dd90b0a68403b6158",
+            "slotId": "helmet_ears",
+            "upd": {
+              "Repairable": {
+                "Durability": 15,
+                "MaxDurability": 15
+              }
+            }
+          },
+          {
+            "_id": "6937807dd90b0a68403b6158",
+            "_tpl": "5aa7d03ae5b5b00016327db5",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 6,
+              "y": 15,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "6937807dd90b0a68403b615d",
+            "_tpl": "656fac30c6baea13cd07e10c",
+            "parentId": "6937807dd90b0a68403b615c",
+            "slotId": "Front_plate",
+            "upd": {
+              "Repairable": {
+                "Durability": 19.3825417,
+                "MaxDurability": 35
+              }
+            }
+          },
+          {
+            "_id": "6937807dd90b0a68403b615e",
+            "_tpl": "656fac30c6baea13cd07e10c",
+            "parentId": "6937807dd90b0a68403b615c",
+            "slotId": "Back_plate",
+            "upd": {
+              "Repairable": {
+                "Durability": 5.43241739,
+                "MaxDurability": 35
+              }
+            }
+          },
+          {
+            "_id": "6937807dd90b0a68403b615f",
+            "_tpl": "55d480c04bdc2d1d4e8b456a",
+            "parentId": "6937807dd90b0a68403b615c",
+            "slotId": "5",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "6937807dd90b0a68403b615c",
+            "_tpl": "64a5366719bab53bd203bf33",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 7,
+              "y": 37,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "6937807dd90b0a68403b6160",
+            "_tpl": "5e9dcf5986f7746c417435b3",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 0,
+              "y": 45,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "6937807dd90b0a68403b6161",
+            "_tpl": "564ca99c4bdc2d16268b4589",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 2,
+              "y": 14,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "6937807dd90b0a68403b6162",
+            "_tpl": "5e4d34ca86f774264f758330",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 8,
+              "y": 15,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "6937807dd90b0a68403b6154",
+            "_tpl": "5d2c829448f0353a5c7d6674",
+            "parentId": "6937807dd90b0a68403b6153",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6937807dd90b0a68403b6153",
+            "_tpl": "59c6633186f7740cf0493bb9",
+            "parentId": "6937807dd90b0a68403b6152",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "6937807dd90b0a68403b6155",
+            "_tpl": "57e3dba62459770f0c32322b",
+            "parentId": "6937807dd90b0a68403b6152",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "6937807dd90b0a68403b6156",
+            "_tpl": "5649b1c04bdc2d16268b457c",
+            "parentId": "6937807dd90b0a68403b6152",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6937807dd90b0a68403b6157",
+            "_tpl": "55d480c04bdc2d1d4e8b456a",
+            "parentId": "6937807dd90b0a68403b6152",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6937807dd90b0a68403b6152",
+            "_tpl": "5bf3e03b0db834001d2c4a9c",
+            "parentId": "6934469df3f1df588453a852",
+            "slotId": "FirstPrimaryWeapon",
+            "upd": {
+              "Repairable": {
+                "Durability": 90.5659,
+                "MaxDurability": 93.1605148
+              },
+              "FireMode": {
+                "FireMode": "fullauto"
+              }
+            }
+          },
+          {
+            "_id": "6934469df3f1df588453a852",
+            "_tpl": "55d7217a4bdc2d86028b456d"
+          },
+          {
+            "_id": "6934469df3f1df588453a96f",
+            "_tpl": "660312cc4d6cdfa6f500c703",
+            "parentId": "6934469df3f1df588453a852",
+            "slotId": "ArmBand"
+          },
+          {
+            "_id": "6747193f170146228c0d2226",
+            "_tpl": "6662ea05f6259762c56f3189",
+            "parentId": "6934469df3f1df588453a852",
+            "slotId": "Dogtag",
+            "upd": {
+              "Resource": {
+                "Value": 0
+              },
+              "Dogtag": {
+                "AccountId": "",
+                "ProfileId": "693445d2f3f1df588453a850",
+                "Nickname": "",
+                "Side": 0,
+                "Level": 0,
+                "Time": "0001-01-01T00:00:00",
+                "Status": "",
+                "KillerAccountId": "",
+                "KillerProfileId": "",
+                "KillerName": "",
+                "WeaponName": "",
+                "CarriedByGroupMember": false
+              }
+            }
+          },
+          {
+            "_id": "6934469df3f1df588453a875",
+            "_tpl": "65e080be269cbd5c5005e529",
+            "parentId": "6934469df3f1df588453a852",
+            "slotId": "Pockets"
+          },
+          {
+            "_id": "6936e282e3a57346e0c70b54",
+            "_tpl": "5d02797c86f774203f38e30a",
+            "parentId": "6934469df3f1df588453a875",
+            "slotId": "SpecialSlot1",
+            "upd": {
+              "MedKit": {
+                "HpResource": 4
+              }
+            }
+          },
+          {
+            "_id": "6934469df3f1df588453a86b",
+            "_tpl": "665ee77ccf2d642e98220bca",
+            "parentId": "6934469df3f1df588453a852",
+            "slotId": "SecuredContainer"
+          },
+          {
+            "_id": "6936c9c3e3a57346e0c29650",
+            "_tpl": "62a09d3bcf4a99369e262447",
+            "parentId": "6934469df3f1df588453a86b",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 1,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "6936e282e3a57346e0c6fc49",
+            "_tpl": "59148c8a86f774197930e983",
+            "parentId": "6936c9c3e3a57346e0c29650",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 1,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "Key": {
+                "NumberOfUsages": 0
+              }
+            }
+          },
+          {
+            "_id": "6936e282e3a57346e0c704c7",
+            "_tpl": "593aa4be86f77457f56379f8",
+            "parentId": "6936c9c3e3a57346e0c29650",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "Key": {
+                "NumberOfUsages": 0
+              }
+            }
+          },
+          {
+            "_id": "6936e282e3a57346e0c70a38",
+            "_tpl": "5a13eebd86f7746fd639aa93",
+            "parentId": "6936c9c3e3a57346e0c29650",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "Key": {
+                "NumberOfUsages": 0
+              }
+            }
+          },
+          {
+            "_id": "6936b84870c658b9b031929c",
+            "_tpl": "5783c43d2459774bbe137486",
+            "parentId": "6934469df3f1df588453a86b",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "6936b84370c658b9b03181fe",
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "parentId": "6936b84870c658b9b031929c",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 38473
+            }
+          },
+          {
+            "_id": "6934469df3f1df588453a8f5",
+            "_tpl": "5af0454c86f7746bf20992e8",
+            "parentId": "6934469df3f1df588453a86b",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 2,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "MedKit": {
+                "HpResource": 4
+              }
+            }
+          },
+          {
+            "_id": "6934469df3f1df588453a91b",
+            "_tpl": "590c657e86f77412b013051d",
+            "parentId": "6934469df3f1df588453a86b",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "MedKit": {
+                "HpResource": 1691
+              }
+            }
+          },
+          {
+            "_id": "6934469df3f1df588453a90f",
+            "_tpl": "57cd379a24597778e7682ecf",
+            "parentId": "6934469df3f1df588453a852",
+            "slotId": "Scabbard",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              }
+            }
+          },
+          {
+            "_id": "664115f68b8ae85875060b3a",
+            "_tpl": "5963866286f7747bf429b572"
+          },
+          {
+            "_id": "693784d3d90b0a68403c45e7",
+            "_tpl": "5d2c76ed48f03532f2136169",
+            "parentId": "6937807dd90b0a68403b6152",
+            "slotId": "mod_reciever",
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "693784fed90b0a68403c5383",
+            "_tpl": "570fd721d2720bc5458b4596",
+            "parentId": "693784d3d90b0a68403c45e7",
+            "slotId": "mod_scope",
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "69378506d90b0a68403c5384",
+            "_tpl": "5648ac824bdc2ded0b8b457d",
+            "parentId": "6937807dd90b0a68403b6152",
+            "slotId": "mod_charge",
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
           }
         ],
         "equipment": "6934469df3f1df588453a852",
@@ -6756,11 +6484,7 @@
         "hideoutAreaStashes": {
           "27": "66c903b7cbd137db330413a2"
         },
-        "fastPanel": {
-          "Item4": "6936c950e3a57346e0c270df",
-          "Item6": "6936c9c3e3a57346e0c2963b",
-          "Item9": "6936b84370c658b9b03183a3"
-        },
+        "fastPanel": {},
         "favoriteItems": [],
         "hideoutCustomizationStashId": "676db384777490e23c45b657"
       },
@@ -6779,70 +6503,70 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 4.02229261,
-            "LastAccess": 1765204670,
+            "PointsEarnedDuringSession": 0.8867756,
+            "LastAccess": 1765246071,
             "Id": "Endurance",
-            "Progress": 275.774963
+            "Progress": 288.755035
           },
           {
-            "PointsEarnedDuringSession": 6.920589,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1765205932,
             "Id": "Strength",
             "Progress": 266.6591
           },
           {
-            "PointsEarnedDuringSession": 2.437526,
-            "LastAccess": 1765204900,
+            "PointsEarnedDuringSession": 2.689373,
+            "LastAccess": 1765246073,
             "Id": "Vitality",
-            "Progress": 266.684723
+            "Progress": 288.409271
           },
           {
-            "PointsEarnedDuringSession": 6.624064,
-            "LastAccess": 1765205932,
+            "PointsEarnedDuringSession": 2.65162,
+            "LastAccess": 1765246073,
             "Id": "Health",
-            "Progress": 356.773834
+            "Progress": 375.1575
           },
           {
-            "PointsEarnedDuringSession": 1.0396,
-            "LastAccess": 1765205933,
+            "PointsEarnedDuringSession": 2.2176,
+            "LastAccess": 1765246073,
             "Id": "StressResistance",
-            "Progress": 236.4411
+            "Progress": 258.0998
           },
           {
-            "PointsEarnedDuringSession": 12.9777508,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1765205676,
             "Id": "Metabolism",
             "Progress": 422.0237
           },
           {
-            "PointsEarnedDuringSession": 0.991191149,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1765205306,
             "Id": "Immunity",
             "Progress": 44.99424
           },
           {
-            "PointsEarnedDuringSession": 6.81425142,
-            "LastAccess": 1765205933,
+            "PointsEarnedDuringSession": 3.92784023,
+            "LastAccess": 1765246010,
             "Id": "Perception",
-            "Progress": 346.198029
+            "Progress": 358.6229
           },
           {
-            "PointsEarnedDuringSession": 1.35,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1765209402,
             "Id": "Intellect",
-            "Progress": 10.52574200000001
+            "Progress": 10.5257416
           },
           {
-            "PointsEarnedDuringSession": 6.22952175,
-            "LastAccess": 1765205767,
+            "PointsEarnedDuringSession": 2.24448013,
+            "LastAccess": 1765246008,
             "Id": "Attention",
-            "Progress": 446.063782
+            "Progress": 454.8814
           },
           {
-            "PointsEarnedDuringSession": 6.899509,
-            "LastAccess": 1765205933,
+            "PointsEarnedDuringSession": 3.511009,
+            "LastAccess": 1765246010,
             "Id": "Charisma",
-            "Progress": 477.792267
+            "Progress": 488.868164
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -6863,16 +6587,16 @@
             "Progress": 86.3760452
           },
           {
-            "PointsEarnedDuringSession": 1.075,
-            "LastAccess": 1765205836,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1765245747,
             "Id": "Assault",
-            "Progress": 284.051025
+            "Progress": 296.260925
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1765193934,
+            "PointsEarnedDuringSession": 4.586398,
+            "LastAccess": 1765246073,
             "Id": "Shotgun",
-            "Progress": 45.98999
+            "Progress": 91.85406
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -6905,7 +6629,7 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0.390000015,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1765205854,
             "Id": "Throwing",
             "Progress": 3.9
@@ -6923,10 +6647,10 @@
             "Progress": 46.2240067
           },
           {
-            "PointsEarnedDuringSession": 2.64000034,
-            "LastAccess": 1765205563,
+            "PointsEarnedDuringSession": 2.49600029,
+            "LastAccess": 1765246070,
             "Id": "AimDrills",
-            "Progress": 228.172073
+            "Progress": 247.308
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -6935,7 +6659,7 @@
             "Progress": 34.04
           },
           {
-            "PointsEarnedDuringSession": 3.26000023,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1765205085,
             "Id": "Surgery",
             "Progress": 178.024017
@@ -6947,16 +6671,16 @@
             "Progress": 5.541828
           },
           {
-            "PointsEarnedDuringSession": 6.48198938,
-            "LastAccess": 1765205767,
+            "PointsEarnedDuringSession": 1.0296,
+            "LastAccess": 1765246008,
             "Id": "Search",
-            "Progress": 288.7452
+            "Progress": 296.9396
           },
           {
-            "PointsEarnedDuringSession": 2.5716002,
-            "LastAccess": 1765205882,
+            "PointsEarnedDuringSession": 0.280799985,
+            "LastAccess": 1765246051,
             "Id": "MagDrills",
-            "Progress": 131.359924
+            "Progress": 133.873917
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -6972,15 +6696,15 @@
           },
           {
             "PointsEarnedDuringSession": 0,
-            "LastAccess": 1765198833,
+            "LastAccess": 1765245746,
             "Id": "LightVests",
-            "Progress": 49.94088
+            "Progress": 51.5008774
           },
           {
-            "PointsEarnedDuringSession": 0.312,
-            "LastAccess": 1765204900,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1765245747,
             "Id": "HeavyVests",
-            "Progress": 21.8807716
+            "Progress": 24.6120148
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -7031,7 +6755,7 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 60,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1765208471,
             "Id": "HideoutManagement",
             "Progress": 480
@@ -7044,7 +6768,7 @@
           },
           {
             "Id": "AK74",
-            "Progress": 537
+            "Progress": 588
           },
           {
             "Id": "PP-91",
@@ -7052,7 +6776,7 @@
           },
           {
             "Id": "M590",
-            "Progress": 39
+            "Progress": 123
           },
           {
             "Id": "MP5",
@@ -7117,106 +6841,37 @@
           "Victims": [
             {
               "AccountId": "0",
-              "ProfileId": "6936e282e3a57346e0c701b2",
-              "Name": "Фаддей Копатыч",
-              "Side": "Savage",
-              "BodyPart": "Stomach",
-              "Time": "00:02:30.0730000",
-              "Distance": 70.8765,
-              "Level": 1,
-              "Weapon": "5ac4cd105acfc40016339859 ShortName",
+              "ProfileId": "693783c9d90b0a68403bfc8a",
+              "Name": "aleves",
+              "Side": "Usec",
+              "BodyPart": "LeftLeg",
+              "Time": "00:02:59.7300000",
+              "Distance": 21.86748,
+              "Level": 17,
+              "Weapon": "5e870397991fd70db46995c8 ShortName",
               "PrestigeLevel": 0,
-              "Role": "assault",
-              "Location": "Sandbox"
-            },
-            {
-              "AccountId": "0",
-              "ProfileId": "6936e282e3a57346e0c70af3",
-              "Name": "Сава Динамит",
-              "Side": "Savage",
-              "BodyPart": "Head",
-              "Time": "00:02:53.3800000",
-              "Distance": 7.98841858,
-              "Level": 1,
-              "Weapon": "5ac4cd105acfc40016339859 ShortName",
-              "PrestigeLevel": 0,
-              "Role": "assault",
-              "Location": "Sandbox"
-            },
-            {
-              "AccountId": "0",
-              "ProfileId": "6936e282e3a57346e0c7095d",
-              "Name": "Вовчик Револьвер",
-              "Side": "Savage",
-              "BodyPart": "Chest",
-              "Time": "00:04:55.0240000",
-              "Distance": 1.34278083,
-              "Level": 1,
-              "Weapon": "5ac4cd105acfc40016339859 ShortName",
-              "PrestigeLevel": 0,
-              "Role": "assault",
-              "Location": "Sandbox"
-            },
-            {
-              "AccountId": "0",
-              "ProfileId": "6936e282e3a57346e0c70323",
-              "Name": "Фима Бутыль",
-              "Side": "Savage",
-              "BodyPart": "Chest",
-              "Time": "00:14:06.7210000",
-              "Distance": 8.492216,
-              "Level": 1,
-              "Weapon": "5ac4cd105acfc40016339859 ShortName",
-              "PrestigeLevel": 0,
-              "Role": "assault",
-              "Location": "Sandbox"
-            },
-            {
-              "AccountId": "0",
-              "ProfileId": "6936e282e3a57346e0c70788",
-              "Name": "Пафнутий Консольщик",
-              "Side": "Savage",
-              "BodyPart": "Head",
-              "Time": "00:14:21.7880000",
-              "Distance": 21.96651,
-              "Level": 1,
-              "Weapon": "5ac4cd105acfc40016339859 ShortName",
-              "PrestigeLevel": 0,
-              "Role": "assault",
-              "Location": "Sandbox"
-            },
-            {
-              "AccountId": "0",
-              "ProfileId": "6936e282e3a57346e0c6fb03",
-              "Name": "Миха Пульпит",
-              "Side": "Savage",
-              "BodyPart": "Stomach",
-              "Time": "00:15:59.4510000",
-              "Distance": 18.7145233,
-              "Level": 1,
-              "Weapon": "5ac4cd105acfc40016339859 ShortName",
-              "PrestigeLevel": 0,
-              "Role": "assault",
-              "Location": "Sandbox"
+              "Role": "pmcUSEC",
+              "Location": "factory4_day"
             }
           ],
           "TotalSessionExperience": 0,
-          "LastSessionDate": 1765204605,
+          "LastSessionDate": 1765245893,
           "SessionCounters": {
             "Items": [
               {
                 "Key": [
-                  "LootItem",
-                  "5656d7c34bdc2d9d198b4587"
+                  "Exp",
+                  "ExpLooting",
+                  "ExpTrigger"
                 ],
-                "Value": 2
+                "Value": 100
               },
               {
                 "Key": [
                   "LootItem",
-                  "57347c93245977448d35f6e3"
+                  "590c35a486f774273531c822"
                 ],
-                "Value": 2
+                "Value": 1
               },
               {
                 "Key": [
@@ -7224,14 +6879,21 @@
                   "ExpLooting",
                   "ExpItemLooting"
                 ],
-                "Value": 1142
+                "Value": 89
               },
               {
                 "Key": [
                   "LootItem",
-                  "5c5db6552e2216001026119d"
+                  "6749c40822a2740bb408d066"
                 ],
                 "Value": 1
+              },
+              {
+                "Key": [
+                  "LootItem",
+                  "6516e91f609aaf354b34b3e2"
+                ],
+                "Value": 2
               },
               {
                 "Key": [
@@ -7244,7 +6906,7 @@
                 "Key": [
                   "Weapons"
                 ],
-                "Value": 3
+                "Value": 1
               },
               {
                 "Key": [
@@ -7257,7 +6919,7 @@
                 "Key": [
                   "Mods"
                 ],
-                "Value": 30
+                "Value": 9
               },
               {
                 "Key": [
@@ -7271,7 +6933,7 @@
                   "LootItem",
                   "5998529a86f774647f44f421"
                 ],
-                "Value": 2
+                "Value": 1
               },
               {
                 "Key": [
@@ -7317,133 +6979,124 @@
               },
               {
                 "Key": [
-                  "BartItems"
-                ],
-                "Value": 16
-              },
-              {
-                "Key": [
                   "LootItem",
-                  "66012788c752a02bbe05e68e"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5a27bad7c4a282000b15184b"
+                  "59e7711e86f7746cae05fbe1"
                 ],
                 "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "593d490386f7745ee97a1555"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "669924a69950f5f4cd060295"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "609e8540d5c319764c2bc2e9"
-                ],
-                "Value": 1
               },
               {
                 "Key": [
                   "Equipments"
                 ],
-                "Value": 14
+                "Value": 1
               },
               {
                 "Key": [
                   "LootItem",
-                  "590c5a7286f7747884343aea"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5addbfe15acfc4001a5fc58b"
+                  "657ba50c23918923cb0df56c"
                 ],
                 "Value": 1
               },
               {
                 "Key": [
                   "LootItem",
-                  "5e2af51086f7746d3f3c3402"
+                  "657ba5439ba22f103e08139f"
                 ],
-                "Value": 3
+                "Value": 1
               },
               {
                 "Key": [
                   "LootItem",
-                  "59e4cf5286f7741778269d8a"
+                  "657ba57af58ba5a62501079e"
                 ],
-                "Value": 24
+                "Value": 1
               },
               {
                 "Key": [
                   "AmmoUsed"
                 ],
-                "Value": 198
+                "Value": 14
               },
               {
                 "Key": [
                   "CauseBodyDamage"
                 ],
-                "Value": 103239
+                "Value": 43373
               },
               {
                 "Key": [
                   "CauseArmorDamage"
                 ],
-                "Value": 4372
+                "Value": 31822
               },
               {
                 "Key": [
                   "HitCount"
                 ],
-                "Value": 22
+                "Value": 28
               },
               {
                 "Key": [
                   "AmmoReached"
                 ],
-                "Value": 21
+                "Value": 6
+              },
+              {
+                "Key": [
+                  "BodyPartDamage",
+                  "Stomach"
+                ],
+                "Value": 9977
+              },
+              {
+                "Key": [
+                  "CombatDamage"
+                ],
+                "Value": 5978
+              },
+              {
+                "Key": [
+                  "Heal"
+                ],
+                "Value": 2977
+              },
+              {
+                "Key": [
+                  "BodyPartDamage",
+                  "LeftArm"
+                ],
+                "Value": 4598
               },
               {
                 "Key": [
                   "Kills",
                   "Pmc"
                 ],
-                "Value": 6
+                "Value": 1
               },
               {
                 "Key": [
                   "Kills"
                 ],
-                "Value": 6
+                "Value": 1
               },
               {
                 "Key": [
-                  "KilledSavage"
+                  "KilledLevel1030"
                 ],
-                "Value": 6
+                "Value": 1
               },
               {
                 "Key": [
-                  "KilledCasualSavage"
+                  "KilledUsec"
                 ],
-                "Value": 6
+                "Value": 1
+              },
+              {
+                "Key": [
+                  "KilledPmc"
+                ],
+                "Value": 1
               },
               {
                 "Key": [
@@ -7451,1076 +7104,123 @@
                   "ExpKill",
                   "ExpKillBase"
                 ],
-                "Value": 480
+                "Value": 175
               },
               {
                 "Key": [
-                  "KilledWithAssaultRifle"
+                  "KilledWithShotgun"
                 ],
-                "Value": 6
+                "Value": 1
               },
               {
                 "Key": [
                   "KilledWithTemplate",
-                  "5ac4cd105acfc40016339859"
+                  "5e870397991fd70db46995c8"
                 ],
-                "Value": 6
+                "Value": 1
               },
               {
                 "Key": [
                   "LongestKillShot"
                 ],
-                "Value": 7087
+                "Value": 2186
               },
               {
                 "Key": [
                   "LongestKillShotOnBot"
                 ],
-                "Value": 7087
+                "Value": 2186
               },
               {
                 "Key": [
-                  "HeadShots"
+                  "BodyPartsDestroyed"
                 ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "Exp",
-                  "ExpKill",
-                  "ExpKillBodyPartBonus"
-                ],
-                "Value": 320
-              },
-              {
-                "Key": [
-                  "Exp",
-                  "ExpKill",
-                  "ExpKillStreakBonus"
-                ],
-                "Value": 160
-              },
-              {
-                "Key": [
-                  "BodiesLooted"
-                ],
-                "Value": 6
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "55d7217a4bdc2d86028b456d"
-                ],
-                "Value": 6
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "59e6152586f77473dc057aa1"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "59e649f986f77411d949b246"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "59e898ee86f77427614bd225"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "59e6318286f77444dd62c4cc"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5649b1c04bdc2d16268b457c"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5a0c59791526d8dba737bba7"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5a01c29586f77474660c694c"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "57e26fc7245977162a14b800"
-                ],
-                "Value": 3
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5bd073c986f7747f627e796c"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5fd4c5477a8d854fa0105061"
-                ],
-                "Value": 3
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "57513f07245977207e26a311"
-                ],
-                "Value": 3
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5c0a794586f77461c458f892"
-                ],
-                "Value": 6
-              },
-              {
-                "Key": [
-                  "MobContainers"
-                ],
-                "Value": 6
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "56e33680d2720be2748b4576"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5d02797c86f774203f38e30a"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "573477e124597737dd42e191"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5cf638cbd7f00c06595bc936"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5d0375ff86f774186372f685"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5783c43d2459774bbe137486"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "65ae4f57e343f0acc00824da"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "557ffd194bdc2d28148b457f"
-                ],
-                "Value": 6
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "544fb37f4bdc2dee738b4567"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5751487e245977207e26a315"
-                ],
-                "Value": 3
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5448be9a4bdc2dfd2f8b456a"
-                ],
-                "Value": 5
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5aa2b986e5b5b00014028f4c"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "FoodDrinks"
-                ],
-                "Value": 8
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5a38e6bac4a2826c6e06d79b"
-                ],
-                "Value": 3
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5a38ee51c4a282000c5a955c"
-                ],
-                "Value": 5
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5a38ef1fc4a282000b1521f6"
-                ],
-                "Value": 3
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5a38eecdc4a282329a73b512"
-                ],
-                "Value": 3
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "626a8ae89e664a2e2a75f409"
-                ],
-                "Value": 3
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5c6162682e22160010261a2b"
-                ],
-                "Value": 3
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5c61627a2e22160012542c55"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "570fd79bd2720bc7458b4583"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5d6e6a5fa4b93614ec501745"
-                ],
-                "Value": 23
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "57e26ea924597715ca604a09"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "59e770f986f7742cbe3164ef"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5ab8ee7786f7742d8f33f0b9"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5c12619186f7743f871c8a32"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5c0d668f86f7747ccb7f13b2"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5734781f24597737e04bf32a"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "590c621186f774138d11ea29"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5696686a4bdc2da3298b456a"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5449016a4bdc2d6f028b456f"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "62a09d3bcf4a99369e262447"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "UsedDrinks"
-                ],
-                "Value": 5
+                "Value": 4
               },
               {
                 "Key": [
                   "BodyPartDamage",
                   "Chest"
                 ],
-                "Value": 5159
-              },
-              {
-                "Key": [
-                  "CombatDamage"
-                ],
-                "Value": 31451
-              },
-              {
-                "Key": [
-                  "BodyPartDamage",
-                  "LeftArm"
-                ],
-                "Value": 5999
-              },
-              {
-                "Key": [
-                  "BodyPartsDestroyed"
-                ],
-                "Value": 1
+                "Value": 8499
               },
               {
                 "Key": [
                   "BodyPartDamage",
                   "Head"
                 ],
-                "Value": 1213
+                "Value": 932
               },
               {
                 "Key": [
                   "BodyPartDamage",
                   "LeftLeg"
                 ],
-                "Value": 2106
+                "Value": 6499
               },
               {
                 "Key": [
                   "BodyPartDamage",
                   "RightArm"
                 ],
-                "Value": 1956
+                "Value": 1597
               },
               {
                 "Key": [
                   "BodyPartDamage",
                   "RightLeg"
                 ],
-                "Value": 2106
+                "Value": 6499
               },
               {
                 "Key": [
-                  "BodyPartDamage",
-                  "Stomach"
+                  "Deaths"
                 ],
-                "Value": 2254
-              },
-              {
-                "Key": [
-                  "Exp",
-                  "ExpDamage"
-                ],
-                "Value": 22
-              },
-              {
-                "Key": [
-                  "BloodLoss"
-                ],
-                "Value": 1246
+                "Value": 1
               },
               {
                 "Key": [
                   "Exp",
                   "ExpHeal"
                 ],
-                "Value": 226
-              },
-              {
-                "Key": [
-                  "Heal"
-                ],
-                "Value": 18609
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5ea03f7400685063ec28bfa8"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5ea03e9400685063ec28bfa4"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5ea034eb5aad6446a939737b"
-                ],
-                "Value": 4
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5735fdcd2459776445391d61"
-                ],
-                "Value": 24
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5ea03e5009aa976f2e7a514b"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5ea02bb600685063ec28bfa1"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "576a581d2459771e7b1bc4f1"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "576a5ed62459771e9c2096cb"
-                ],
-                "Value": 4
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "64b7bbb74b75259c590fa897"
-                ],
-                "Value": 26
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "576a63cd2459771e796e0e11"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "572b7f1624597762ae139822"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "572b7fa124597762b472f9d2"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "59e7643b86f7742cbf2c109a"
-                ],
-                "Value": 3
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "544a5cde4bdc2d39388b456b"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5e2af47786f7746d404f3aaa"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "573475fb24597737fb1379e1"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "657025a4bfc87b3a34093250"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "58864a4f2459770fcc257101"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5a13eebd86f7746fd639aa93"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "573474f924597738002c6174"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5c0e2f94d174af029f650d56"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5c06782b86f77426df5407d2"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "Keys"
-                ],
-                "Value": 3
-              },
-              {
-                "Key": [
-                  "Exp",
-                  "ExpDoorUnlocked"
-                ],
-                "Value": 30
-              },
-              {
-                "Key": [
-                  "Exp",
-                  "ExpLooting",
-                  "ExpTrigger"
-                ],
-                "Value": 0
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "6575a6ca8778e96ded05a802"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5d1b309586f77425227d1676"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "590c651286f7741e566b6461"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5e2af37686f774755a234b65"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "590c645c86f77412b01304d9"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5672cb724bdc2dc2088b456b"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5d1b392c86f77425243e98fe"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5734770f24597738025ee254"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "57347d3d245977448f7b7f61"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "UsedFoods"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5448fee04bdc2dbc018b4567"
-                ],
-                "Value": 4
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5751496424597720a27126da"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "57514643245977207f2c2d09"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "6711107e1ad01bb88705347e"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5bc5a351d4351e003477a414"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5ac66d9b5acfc4001633997a"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "59c6633186f7740cf0493bb9"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5c9a07572e221644f31c4b32"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5649ade84bdc2d1b2b8b4587"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5ac733a45acfc400192630e2"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5a0ed824fcdbcb0176308b0d"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "55d480c04bdc2d1d4e8b456a"
-                ],
-                "Value": 8
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "56dff3afd2720bba668b4567"
-                ],
-                "Value": 56
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5aa2b87de5b5b00016327c25"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "66b5f247af44ca0014063c02"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "593aa4be86f77457f56379f8"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5bc9b156d4351e00367fbce9"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "57dc2fa62459775949412633"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "57e3dba62459770f0c32322b"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "55d481904bdc2d8c2f8b456a"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "57dc324a24597759501edc20"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5839a7742459773cf9693481"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "59d36a0086f7747e673f3946"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5d15ce51d7ad1a1eff619092"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5b07dd285acfc4001754240d"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "56e335e4d2720b6c058b456d"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "59148c8a86f774197930e983"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5d1b3a5d86f774252167ba22"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5dfa3d45dfc58d14537c20b0"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "6194f41f9fb0c665d5490e75"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "651a8e529829226ceb67c319"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5a0d716f1526d8000d26b1e2"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5734795124597738002c6176"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5a38ebd9c4a282000d722a5b"
-                ],
-                "Value": 23
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5bead2e00db834001c062938"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5cc9c20cd7f00c001336c65d"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "57347c5b245977448d35f6e1"
-                ],
-                "Value": 2
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5648a7494bdc2d9d488b4583"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "65703d866584602f7d057a8a"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "65703fa06584602f7d057a8e"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "65703fe46a912c8b5c03468b"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "657040374e67e8ec7a0d261c"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "LootItem",
-                  "5e831507ea0a7c419c2f9bd9"
-                ],
-                "Value": 1
-              },
-              {
-                "Key": [
-                  "Exp",
-                  "ExpEnergy"
-                ],
-                "Value": 43
-              },
-              {
-                "Key": [
-                  "Exp",
-                  "ExpHydration"
-                ],
-                "Value": 65
+                "Value": 29
               },
               {
                 "Key": [
                   "Exp",
                   "ExpExitStatus"
                 ],
-                "Value": 300
+                "Value": 0
               },
               {
                 "Key": [
                   "Pedometer"
                 ],
-                "Value": 1290
+                "Value": 169
               },
               {
                 "Key": [
                   "LongestKillStreak"
                 ],
-                "Value": 6
+                "Value": 1
               },
               {
                 "Key": [
                   "ExpKill"
                 ],
-                "Value": 960
+                "Value": 175
               },
               {
                 "Key": [
                   "ExpLooting"
                 ],
-                "Value": 1142
+                "Value": 189
               },
               {
                 "Key": [
                   "Ammunitions"
                 ],
-                "Value": 80
-              },
-              {
-                "Key": [
-                  "Money",
-                  "RUB"
-                ],
-                "Value": 25021
+                "Value": 1
               }
             ]
           },
@@ -8537,21 +7237,21 @@
                 "Key": [
                   "Triggers"
                 ],
-                "Value": 27
+                "Value": 29
               },
               {
                 "Key": [
                   "CurrentWinStreak",
                   "Pmc"
                 ],
-                "Value": 3
+                "Value": 0
               },
               {
                 "Key": [
                   "Sessions",
                   "Pmc"
                 ],
-                "Value": 17
+                "Value": 19
               },
               {
                 "Key": [
@@ -8559,21 +7259,21 @@
                   "Killed",
                   "Pmc"
                 ],
-                "Value": 10
+                "Value": 12
               },
               {
                 "Key": [
                   "LifeTime",
                   "Pmc"
                 ],
-                "Value": 10076
+                "Value": 10377
               },
               {
                 "Key": [
                   "Exp",
                   "ExpHeal"
                 ],
-                "Value": 2710
+                "Value": 2739
               },
               {
                 "Key": [
@@ -8586,13 +7286,13 @@
                 "Key": [
                   "Kills"
                 ],
-                "Value": 64
+                "Value": 66
               },
               {
                 "Key": [
                   "Deaths"
                 ],
-                "Value": 10
+                "Value": 12
               },
               {
                 "Key": [
@@ -8604,7 +7304,7 @@
                 "Key": [
                   "KilledLevel1030"
                 ],
-                "Value": 9
+                "Value": 11
               },
               {
                 "Key": [
@@ -8634,13 +7334,13 @@
                 "Key": [
                   "KilledBear"
                 ],
-                "Value": 12
+                "Value": 13
               },
               {
                 "Key": [
                   "KilledUsec"
                 ],
-                "Value": 10
+                "Value": 11
               },
               {
                 "Key": [
@@ -8652,7 +7352,7 @@
                 "Key": [
                   "KilledPmc"
                 ],
-                "Value": 22
+                "Value": 24
               },
               {
                 "Key": [
@@ -8682,13 +7382,13 @@
                 "Key": [
                   "KilledWithShotgun"
                 ],
-                "Value": 2
+                "Value": 3
               },
               {
                 "Key": [
                   "KilledWithAssaultRifle"
                 ],
-                "Value": 46
+                "Value": 47
               },
               {
                 "Key": [
@@ -8743,49 +7443,49 @@
                   "BodyPartDamage",
                   "Head"
                 ],
-                "Value": 36236
+                "Value": 39257
               },
               {
                 "Key": [
                   "BodyPartDamage",
                   "Chest"
                 ],
-                "Value": 105240
+                "Value": 122231
               },
               {
                 "Key": [
                   "BodyPartDamage",
                   "Stomach"
                 ],
-                "Value": 83895
+                "Value": 99604
               },
               {
                 "Key": [
                   "BodyPartDamage",
                   "LeftArm"
                 ],
-                "Value": 101303
+                "Value": 111900
               },
               {
                 "Key": [
                   "BodyPartDamage",
                   "RightArm"
                 ],
-                "Value": 60971
+                "Value": 68567
               },
               {
                 "Key": [
                   "BodyPartDamage",
                   "LeftLeg"
                 ],
-                "Value": 61199
+                "Value": 71583
               },
               {
                 "Key": [
                   "BodyPartDamage",
                   "RightLeg"
                 ],
-                "Value": 56168
+                "Value": 66552
               },
               {
                 "Key": [
@@ -8803,13 +7503,13 @@
                 "Key": [
                   "BodyPartsDestroyed"
                 ],
-                "Value": 44
+                "Value": 51
               },
               {
                 "Key": [
                   "Heal"
                 ],
-                "Value": 186246
+                "Value": 189223
               },
               {
                 "Key": [
@@ -8857,13 +7557,13 @@
                 "Key": [
                   "Pedometer"
                 ],
-                "Value": 13436
+                "Value": 13838
               },
               {
                 "Key": [
                   "BodiesLooted"
                 ],
-                "Value": 34
+                "Value": 35
               },
               {
                 "Key": [
@@ -8881,19 +7581,19 @@
                 "Key": [
                   "Weapons"
                 ],
-                "Value": 22
+                "Value": 23
               },
               {
                 "Key": [
                   "Ammunitions"
                 ],
-                "Value": 258
+                "Value": 259
               },
               {
                 "Key": [
                   "Mods"
                 ],
-                "Value": 195
+                "Value": 205
               },
               {
                 "Key": [
@@ -8923,37 +7623,37 @@
                 "Key": [
                   "BartItems"
                 ],
-                "Value": 135
+                "Value": 136
               },
               {
                 "Key": [
                   "MobContainers"
                 ],
-                "Value": 34
+                "Value": 35
               },
               {
                 "Key": [
                   "Equipments"
                 ],
-                "Value": 189
+                "Value": 199
               },
               {
                 "Key": [
                   "CauseBodyDamage"
                 ],
-                "Value": 1597029
+                "Value": 1696296
               },
               {
                 "Key": [
                   "CauseArmorDamage"
                 ],
-                "Value": 760061
+                "Value": 832153
               },
               {
                 "Key": [
                   "HitCount"
                 ],
-                "Value": 484
+                "Value": 529
               },
               {
                 "Key": [
@@ -8983,13 +7683,13 @@
                 "Key": [
                   "ExpKill"
                 ],
-                "Value": 15587
+                "Value": 15937
               },
               {
                 "Key": [
                   "ExpLooting"
                 ],
-                "Value": 9050
+                "Value": 9488
               },
               {
                 "Key": [
@@ -9016,13 +7716,13 @@
                 "Key": [
                   "AmmoUsed"
                 ],
-                "Value": 2432
+                "Value": 2522
               },
               {
                 "Key": [
                   "AmmoReached"
                 ],
-                "Value": 363
+                "Value": 384
               },
               {
                 "Key": [
@@ -9034,7 +7734,7 @@
                 "Key": [
                   "CombatDamage"
                 ],
-                "Value": 678224
+                "Value": 746175
               },
               {
                 "Key": [
@@ -9097,7 +7797,7 @@
                   "LongestWinStreak",
                   "Pmc"
                 ],
-                "Value": 2
+                "Value": 3
               },
               {
                 "Key": [
@@ -9174,14 +7874,14 @@
                   "TriggerVisited",
                   "nf2024_2_2"
                 ],
-                "Value": 4
+                "Value": 6
               },
               {
                 "Key": [
                   "TriggerVisited",
                   "place_SADOVOD_01_1"
                 ],
-                "Value": 1
+                "Value": 2
               },
               {
                 "Key": [
@@ -9246,63 +7946,234 @@
                   "Sandbox_5_Office_exploration"
                 ],
                 "Value": 2
+              },
+              {
+                "Key": [
+                  "TriggerVisited",
+                  "nf2024_2_1"
+                ],
+                "Value": 2
+              },
+              {
+                "Key": [
+                  "TriggerVisited",
+                  "showers"
+                ],
+                "Value": 3
               }
             ]
           },
-          "SessionExperienceMult": 1.3,
+          "SessionExperienceMult": 1,
           "ExperienceBonusMult": 1,
           "Aggressor": {
             "PrestigeLevel": 0,
             "AccountId": null,
-            "ProfileId": null,
+            "ProfileId": "693783c9d90b0a68403bfc8a",
             "MainProfileNickname": null,
-            "Name": "Вовчик Револьвер",
-            "Side": "Savage",
-            "WeaponName": "5ea03f7400685063ec28bfa8 ShortName",
+            "Name": "aleves",
+            "Side": "Usec",
+            "WeaponName": "617fd91e5539a84ec44ce155 ShortName",
             "Category": "Default",
             "ColliderType": "RibcageUp",
-            "Role": "assault"
+            "Role": "pmcUSEC"
           },
           "DroppedItems": [],
           "FoundInRaidItems": [],
           "DamageHistory": {
-            "LethalDamagePart": "Common",
-            "LethalDamage": null,
+            "LethalDamagePart": "Chest",
+            "LethalDamage": {
+              "Amount": 95,
+              "Type": "GrenadeFragment",
+              "SourceId": "617fd91e5539a84ec44ce155",
+              "OverDamageFrom": null,
+              "Blunt": false,
+              "ImpactsCount": 1
+            },
             "BodyParts": {
-              "Head": [],
-              "Chest": [],
-              "Stomach": [],
-              "LeftArm": [
+              "Head": [
                 {
-                  "Amount": 18.9764938,
-                  "Type": "Bullet",
-                  "SourceId": "5735fdcd2459776445391d61",
-                  "OverDamageFrom": null,
+                  "Amount": 2.48310852,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "Stomach",
                   "Blunt": false,
                   "ImpactsCount": 1
                 },
                 {
-                  "Amount": 2.02350616,
-                  "Type": "Bullet",
-                  "SourceId": "5735fdcd2459776445391d61",
+                  "Amount": 2.78026772,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "LeftLeg",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                },
+                {
+                  "Amount": 4.06034851,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "RightLeg",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                }
+              ],
+              "Chest": [
+                {
+                  "Amount": 6.030403,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "Stomach",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                },
+                {
+                  "Amount": 6.752075,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "LeftLeg",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                },
+                {
+                  "Amount": 9.860847,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "RightLeg",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                },
+                {
+                  "Amount": 62.3566742,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
                   "OverDamageFrom": null,
                   "Blunt": false,
                   "ImpactsCount": 1
                 }
               ],
-              "RightArm": [],
-              "LeftLeg": [],
-              "RightLeg": []
+              "Stomach": [
+                {
+                  "Amount": 70,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": null,
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                }
+              ],
+              "LeftArm": [
+                {
+                  "Amount": 30.0185432,
+                  "Type": "Bullet",
+                  "SourceId": "5d6e67fba4b9361bc73bc779",
+                  "OverDamageFrom": null,
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                },
+                {
+                  "Amount": 4.256756,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "Stomach",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                },
+                {
+                  "Amount": 4.76617241,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "LeftLeg",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                },
+                {
+                  "Amount": 6.960597,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "RightLeg",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                }
+              ],
+              "RightArm": [
+                {
+                  "Amount": 4.256756,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "Stomach",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                },
+                {
+                  "Amount": 4.7661705,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "LeftLeg",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                },
+                {
+                  "Amount": 6.960598,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "RightLeg",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                }
+              ],
+              "LeftLeg": [
+                {
+                  "Amount": 4.61148834,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "Stomach",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                },
+                {
+                  "Amount": 60.38851,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": null,
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                }
+              ],
+              "RightLeg": [
+                {
+                  "Amount": 4.61148834,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "Stomach",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                },
+                {
+                  "Amount": 5.163353,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": "LeftLeg",
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                },
+                {
+                  "Amount": 55.22516,
+                  "Type": "GrenadeFragment",
+                  "SourceId": "617fd91e5539a84ec44ce155",
+                  "OverDamageFrom": null,
+                  "Blunt": false,
+                  "ImpactsCount": 1
+                }
+              ]
             }
           },
           "DeathCause": {
-            "DamageType": "Melee",
-            "Side": "Savage",
-            "Role": "bossTagilla",
-            "WeaponId": "6087e570b998180e9f76dc24"
+            "DamageType": "GrenadeFragment",
+            "Side": "Usec",
+            "Role": "pmcUSEC",
+            "WeaponId": "5e870397991fd70db46995c8"
           },
           "LastPlayerState": null,
-          "TotalInGameTime": 6935,
+          "TotalInGameTime": 10076,
           "SurvivorClass": "Neutralizer"
         }
       },
@@ -9916,7 +8787,7 @@
         "65141bd40495cdcd5a295617": {
           "id": "65141bd40495cdcd5a295617",
           "type": "CounterCreator",
-          "value": 12,
+          "value": 13,
           "sourceId": "65141bdfcf2f1c285e606446"
         },
         "6513ed34e15d5337298168de": {
@@ -10054,7 +8925,7 @@
         "65141b74fee1b6288d92068e": {
           "id": "65141b74fee1b6288d92068e",
           "type": "CounterCreator",
-          "value": 10,
+          "value": 11,
           "sourceId": "65141b9859647d2cb3213ca2"
         },
         "655b4995528d47f68c1ffed6": {
@@ -10084,7 +8955,7 @@
         "65141cdcb9d5ff895410e1e4": {
           "id": "65141cdcb9d5ff895410e1e4",
           "type": "CounterCreator",
-          "value": 3,
+          "value": 0,
           "sourceId": "65141cd2cf2f1c285e606449"
         },
         "6527d527f15bed8e345640c7": {
@@ -10416,6 +9287,24 @@
           "type": "CounterCreator",
           "value": 1,
           "sourceId": "693646a53ba8bd3ac82b8294"
+        },
+        "5accd5e386f77463027e9397": {
+          "id": "5accd5e386f77463027e9397",
+          "type": "WeaponAssembly",
+          "value": 0,
+          "sourceId": "5ac23c6186f7741247042bad"
+        },
+        "63ac18f4972364554162a25c": {
+          "id": "63ac18f4972364554162a25c",
+          "type": "CounterCreator",
+          "value": 0,
+          "sourceId": "5d2495a886f77425cd51e403"
+        },
+        "5d249aa286f77475e8376399": {
+          "id": "5d249aa286f77475e8376399",
+          "type": "HandoverItem",
+          "value": 0,
+          "sourceId": "5d2495a886f77425cd51e403"
         }
       },
       "InsuredItems": [
@@ -10425,99 +9314,11 @@
         },
         {
           "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6934469df3f1df588453a8f2"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
           "itemId": "6934469df3f1df588453a929"
         },
         {
           "tid": "54cb50c76803fa8b248b4571",
           "itemId": "693642443ba8bd3ac82a7609"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6936b84870c658b9b031a980"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6936b84870c658b9b031a983"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6936b84870c658b9b031a987"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6936b84870c658b9b031a986"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6936b84870c658b9b031a984"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6936b84870c658b9b031a985"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6936b84870c658b9b031a588"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "693642443ba8bd3ac82a760d"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "693642443ba8bd3ac82a761e"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "693642443ba8bd3ac82a760c"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "693642443ba8bd3ac82a760a"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "693642443ba8bd3ac82a761c"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "693642443ba8bd3ac82a7618"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6936c906e3a57346e0c2628a"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "693642443ba8bd3ac82a7615"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6936c911e3a57346e0c2628b"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "69368f4422ce77d6a0685c44"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6936b84870c658b9b031a982"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6936b84870c658b9b031a981"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6936c8bbe3a57346e0c254a1"
-        },
-        {
-          "tid": "54cb50c76803fa8b248b4571",
-          "itemId": "6936c9bbe3a57346e0c283c3"
         }
       ],
       "Hideout": {
@@ -11030,7 +9831,7 @@
         "HideoutCounters": null,
         "Seed": "0294f0eca2f57d18f6ec2adc4e30597e",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1765209685,
+        "sptUpdateLastRunTimestamp": 1765251612,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -11214,7 +10015,8 @@
           "statusTimers": {
             "2": 1765205993
           },
-          "completedConditions": []
+          "completedConditions": [],
+          "availableAfter": 0
         },
         {
           "qid": "5d2495a886f77425cd51e403",
@@ -11223,7 +10025,8 @@
           "statusTimers": {
             "2": 1765205997
           },
-          "completedConditions": []
+          "completedConditions": [],
+          "availableAfter": 0
         }
       ],
       "TradersInfo": {
@@ -11293,7 +10096,7 @@
         },
         "54cb57776803fa99248b456e": {
           "loyaltyLevel": 1,
-          "salesSum": 170506,
+          "salesSum": 181204,
           "standing": 0.21,
           "nextResupply": 1765038716,
           "unlocked": true,
@@ -11301,7 +10104,7 @@
         },
         "58330581ace78e27b8b10cee": {
           "loyaltyLevel": 1,
-          "salesSum": 59870,
+          "salesSum": 83058,
           "standing": 0.21,
           "nextResupply": 1765038701,
           "unlocked": true,
@@ -11317,7 +10120,7 @@
         },
         "54cb50c76803fa8b248b4571": {
           "loyaltyLevel": 1,
-          "salesSum": 399802,
+          "salesSum": 412623,
           "standing": 0.21,
           "nextResupply": 1765044701,
           "unlocked": true,
@@ -12070,7 +10873,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1749228674,
+        "nextResetTime": 1750438274,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -14653,7 +13456,7 @@
     },
     "54cb50c76803fa8b248b4571": {
       "attachmentsNew": 0,
-      "new": 0,
+      "new": 2,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -14986,6 +13789,58 @@
             "data": []
           },
           "maxStorageTime": 172800
+        },
+        {
+          "_id": "6937807dd90b0a68403b6151",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 8,
+          "dt": 1765245053,
+          "templateId": "58fe0e4586f774728248ca13 0",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6937807cd90b0a68403b6150",
+            "data": []
+          },
+          "maxStorageTime": 345600,
+          "systemData": {
+            "date": "07.12.2025",
+            "time": "16:26",
+            "location": "sandbox"
+          }
+        },
+        {
+          "_id": "69378334d90b0a68403bd449",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 2,
+          "dt": 1765245748,
+          "templateId": "5914450f86f7744bb83be8a2 2",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {},
+          "systemData": {
+            "date": "09.12.2025",
+            "time": "02:02",
+            "location": "factory4_day"
+          }
+        },
+        {
+          "_id": "6937847bd90b0a68403c45e5",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 2,
+          "dt": 1765246075,
+          "templateId": "5914450f86f7744bb83be8a2 0",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {},
+          "systemData": {
+            "date": "09.12.2025",
+            "time": "02:07",
+            "location": "factory4_day"
+          }
         }
       ],
       "_id": "54cb50c76803fa8b248b4571"
@@ -15282,6 +14137,46 @@
         }
       ],
       "_id": "5ac3b934156ae10c4430e83c"
+    },
+    "693783c9d90b0a68403bfc8a": {
+      "attachmentsNew": 0,
+      "new": 1,
+      "type": 1,
+      "Users": [
+        {
+          "_id": "693783c9d90b0a68403bfc8a",
+          "aid": 0,
+          "Info": {
+            "Nickname": "aleves",
+            "Side": "Bear",
+            "Level": 17,
+            "MemberCategory": 0
+          }
+        },
+        {
+          "_id": "693445d2f3f1df588453a850",
+          "aid": 1655750,
+          "Info": {
+            "Nickname": "Ray",
+            "Side": "Usec",
+            "Level": 8,
+            "MemberCategory": 1026,
+            "SelectedMemberCategory": 1024
+          }
+        }
+      ],
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6937847bd90b0a68403c45e6",
+          "uid": "693783c9d90b0a68403bfc8a",
+          "type": 1,
+          "dt": 1765246075,
+          "text": "技术很好，{{PlayerName}}",
+          "items": {}
+        }
+      ],
+      "_id": "693783c9d90b0a68403bfc8a"
     }
   },
   "spt": {
@@ -15346,171 +14241,6 @@
   },
   "inraid": {},
   "insurance": [
-    {
-      "scheduledTime": 1765229123,
-      "traderId": "54cb50c76803fa8b248b4571",
-      "maxStorageTime": 345600,
-      "systemData": {
-        "date": "07.12.2025",
-        "time": "16:26",
-        "location": "sandbox"
-      },
-      "messageType": 8,
-      "messageTemplateId": "58fe0e4586f774728248ca13 0",
-      "items": [
-        {
-          "_id": "693594cad17a8a4d602690e0",
-          "_tpl": "5bf3e03b0db834001d2c4a9c",
-          "parentId": "6934469df3f1df588453a852",
-          "slotId": "FirstPrimaryWeapon",
-          "upd": {
-            "Repairable": {
-              "Durability": 90.5659,
-              "MaxDurability": 93.1605148
-            },
-            "FireMode": {
-              "FireMode": "fullauto"
-            }
-          }
-        },
-        {
-          "_id": "693594cad17a8a4d602690e2",
-          "_tpl": "59c6633186f7740cf0493bb9",
-          "parentId": "693594cad17a8a4d602690e0",
-          "slotId": "mod_gas_block"
-        },
-        {
-          "_id": "693594f7d17a8a4d602690ea",
-          "_tpl": "5d2c829448f0353a5c7d6674",
-          "parentId": "693594cad17a8a4d602690e2",
-          "slotId": "mod_handguard"
-        },
-        {
-          "_id": "693594cad17a8a4d602690e4",
-          "_tpl": "57e3dba62459770f0c32322b",
-          "parentId": "693594cad17a8a4d602690e0",
-          "slotId": "mod_pistol_grip"
-        },
-        {
-          "_id": "693594cad17a8a4d602690e6",
-          "_tpl": "5649b1c04bdc2d16268b457c",
-          "parentId": "693594cad17a8a4d602690e0",
-          "slotId": "mod_stock"
-        },
-        {
-          "_id": "693594d4d17a8a4d602690e8",
-          "_tpl": "55d480c04bdc2d1d4e8b456a",
-          "parentId": "693594cad17a8a4d602690e0",
-          "slotId": "mod_magazine"
-        },
-        {
-          "_id": "6934469df3f1df588453a8ff",
-          "_tpl": "5aa7d03ae5b5b00016327db5",
-          "parentId": "6934469df3f1df588453a852",
-          "slotId": "Headwear"
-        },
-        {
-          "_id": "6934469df3f1df588453a900",
-          "_tpl": "654a90aff4f81a421b0a7c86",
-          "parentId": "6934469df3f1df588453a8ff",
-          "slotId": "helmet_top",
-          "upd": {
-            "Repairable": {
-              "Durability": 15,
-              "MaxDurability": 15
-            }
-          }
-        },
-        {
-          "_id": "6934469df3f1df588453a901",
-          "_tpl": "654a91068e1ce698150fd1e2",
-          "parentId": "6934469df3f1df588453a8ff",
-          "slotId": "helmet_back",
-          "upd": {
-            "Repairable": {
-              "Durability": 15,
-              "MaxDurability": 15
-            }
-          }
-        },
-        {
-          "_id": "6934469df3f1df588453a902",
-          "_tpl": "654a9189bcc67a392b056c79",
-          "parentId": "6934469df3f1df588453a8ff",
-          "slotId": "helmet_ears",
-          "upd": {
-            "Repairable": {
-              "Durability": 15,
-              "MaxDurability": 15
-            }
-          }
-        },
-        {
-          "_id": "6934469df3f1df588453a94d",
-          "_tpl": "64a5366719bab53bd203bf33",
-          "parentId": "6934469df3f1df588453a852",
-          "slotId": "TacticalVest"
-        },
-        {
-          "_id": "6934469df3f1df588453a94e",
-          "_tpl": "656fac30c6baea13cd07e10c",
-          "parentId": "6934469df3f1df588453a94d",
-          "slotId": "Front_plate",
-          "upd": {
-            "Repairable": {
-              "Durability": 19.3825417,
-              "MaxDurability": 35
-            }
-          }
-        },
-        {
-          "_id": "6934469df3f1df588453a94f",
-          "_tpl": "656fac30c6baea13cd07e10c",
-          "parentId": "6934469df3f1df588453a94d",
-          "slotId": "Back_plate",
-          "upd": {
-            "Repairable": {
-              "Durability": 5.43241739,
-              "MaxDurability": 35
-            }
-          }
-        },
-        {
-          "_id": "693594d5d17a8a4d602690e9",
-          "_tpl": "55d480c04bdc2d1d4e8b456a",
-          "parentId": "6934469df3f1df588453a94d",
-          "slotId": "5",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        },
-        {
-          "_id": "6934469df3f1df588453a87b",
-          "_tpl": "5e9dcf5986f7746c417435b3",
-          "parentId": "6934469df3f1df588453a852",
-          "slotId": "Backpack"
-        },
-        {
-          "_id": "693594cad17a8a4d602690e7",
-          "_tpl": "564ca99c4bdc2d16268b4589",
-          "parentId": "6934469df3f1df588453a875",
-          "slotId": "pocket2",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        },
-        {
-          "_id": "6934469df3f1df588453a8a1",
-          "_tpl": "5e4d34ca86f774264f758330",
-          "parentId": "6934469df3f1df588453a852",
-          "slotId": "Earpiece"
-        }
-      ]
-    },
     {
       "scheduledTime": 1765261269,
       "traderId": "54cb50c76803fa8b248b4571",
@@ -16973,6 +15703,358 @@
           "_tpl": "55d480c04bdc2d1d4e8b456a"
         }
       ]
+    },
+    {
+      "scheduledTime": 1765372796,
+      "traderId": "54cb50c76803fa8b248b4571",
+      "maxStorageTime": 345600,
+      "systemData": {
+        "date": "09.12.2025",
+        "time": "02:02",
+        "location": "factory4_day"
+      },
+      "messageType": 8,
+      "messageTemplateId": "58fe0e4586f774728248ca13 0",
+      "items": [
+        {
+          "_id": "6936f4f3e3a57346e0c99f0a",
+          "_tpl": "5ac66d9b5acfc4001633997a",
+          "parentId": "6934469df3f1df588453a852",
+          "slotId": "FirstPrimaryWeapon",
+          "upd": {
+            "Repairable": {
+              "Durability": 95.30142,
+              "MaxDurability": 95.9088
+            },
+            "FireMode": {
+              "FireMode": "fullauto"
+            },
+            "Foldable": {
+              "Folded": false
+            }
+          }
+        },
+        {
+          "_id": "693642443ba8bd3ac82a760d",
+          "_tpl": "59c6633186f7740cf0493bb9",
+          "parentId": "6936f4f3e3a57346e0c99f0a",
+          "slotId": "mod_gas_block"
+        },
+        {
+          "_id": "693642443ba8bd3ac82a7615",
+          "_tpl": "5648b4534bdc2d3d1c8b4580",
+          "parentId": "693642443ba8bd3ac82a760d",
+          "slotId": "mod_handguard"
+        },
+        {
+          "_id": "6936c911e3a57346e0c2628b",
+          "_tpl": "5c1bc7752e221602b1779b34",
+          "parentId": "693642443ba8bd3ac82a7615",
+          "slotId": "mod_foregrip"
+        },
+        {
+          "_id": "693642443ba8bd3ac82a761e",
+          "_tpl": "5ac7655e5acfc40016339a19",
+          "parentId": "6936f4f3e3a57346e0c99f0a",
+          "slotId": "mod_muzzle"
+        },
+        {
+          "_id": "693642443ba8bd3ac82a760c",
+          "_tpl": "5649ade84bdc2d1b2b8b4587",
+          "parentId": "6936f4f3e3a57346e0c99f0a",
+          "slotId": "mod_pistol_grip"
+        },
+        {
+          "_id": "693642443ba8bd3ac82a760a",
+          "_tpl": "5ac50da15acfc4001718d287",
+          "parentId": "6936f4f3e3a57346e0c99f0a",
+          "slotId": "mod_reciever"
+        },
+        {
+          "_id": "693642443ba8bd3ac82a761c",
+          "_tpl": "5ac72e475acfc400180ae6fe",
+          "parentId": "6936f4f3e3a57346e0c99f0a",
+          "slotId": "mod_sight_rear",
+          "upd": {
+            "Sight": {
+              "ScopesCurrentCalibPointIndexes": [
+                0
+              ],
+              "ScopesSelectedModes": [
+                0
+              ],
+              "SelectedScope": 0,
+              "ScopeZoomValue": 0
+            }
+          }
+        },
+        {
+          "_id": "693642443ba8bd3ac82a7618",
+          "_tpl": "6386300124a1dc425c00577a",
+          "parentId": "6936f4f3e3a57346e0c99f0a",
+          "slotId": "mod_stock"
+        },
+        {
+          "_id": "69368f4422ce77d6a0685c44",
+          "_tpl": "5a0c59791526d8dba737bba7",
+          "parentId": "693642443ba8bd3ac82a7618",
+          "slotId": "mod_stock"
+        },
+        {
+          "_id": "6936c9bbe3a57346e0c283c3",
+          "_tpl": "564ca99c4bdc2d16268b4589",
+          "parentId": "6936f4f3e3a57346e0c99f0a",
+          "slotId": "mod_magazine"
+        },
+        {
+          "_id": "6936c9c3e3a57346e0c291b9",
+          "_tpl": "57486e672459770abd687134",
+          "parentId": "6936f4f3e3a57346e0c99f0a",
+          "slotId": "mod_mount_000",
+          "upd": {
+            "Sight": {
+              "ScopesCurrentCalibPointIndexes": [
+                0
+              ],
+              "ScopesSelectedModes": [
+                0
+              ],
+              "SelectedScope": 0,
+              "ScopeZoomValue": 0
+            }
+          }
+        },
+        {
+          "_id": "6936c906e3a57346e0c2628a",
+          "_tpl": "5648ac824bdc2ded0b8b457d",
+          "parentId": "6936f4f3e3a57346e0c99f0a",
+          "slotId": "mod_charge"
+        },
+        {
+          "_id": "6936b84870c658b9b031a980",
+          "_tpl": "66b6296d7994640992013b17",
+          "parentId": "6934469df3f1df588453a852",
+          "slotId": "TacticalVest"
+        },
+        {
+          "_id": "6936b84870c658b9b031a982",
+          "_tpl": "656f9d5900d62bcd2e02407c",
+          "parentId": "6936b84870c658b9b031a980",
+          "slotId": "Front_plate",
+          "upd": {
+            "Repairable": {
+              "Durability": 24.1406555,
+              "MaxDurability": 39.14385
+            }
+          }
+        },
+        {
+          "_id": "6936b84870c658b9b031a981",
+          "_tpl": "656fac30c6baea13cd07e10c",
+          "parentId": "6936b84870c658b9b031a980",
+          "slotId": "Back_plate",
+          "upd": {
+            "Repairable": {
+              "Durability": 30.86438,
+              "MaxDurability": 31.86438
+            }
+          }
+        },
+        {
+          "_id": "6936b84870c658b9b031a985",
+          "_tpl": "66b884f4c5d72b02774886eb",
+          "parentId": "6936b84870c658b9b031a980",
+          "slotId": "Soft_armor_front",
+          "upd": {
+            "Repairable": {
+              "Durability": 33.7191,
+              "MaxDurability": 34.88671
+            }
+          }
+        },
+        {
+          "_id": "6936b84870c658b9b031a984",
+          "_tpl": "66b884eaacff495a29492849",
+          "parentId": "6936b84870c658b9b031a980",
+          "slotId": "Soft_armor_back",
+          "upd": {
+            "Repairable": {
+              "Durability": 34.15643,
+              "MaxDurability": 34.15643
+            }
+          }
+        },
+        {
+          "_id": "6936b84870c658b9b031a986",
+          "_tpl": "66b8851678bbc0200425fa03",
+          "parentId": "6936b84870c658b9b031a980",
+          "slotId": "Soft_armor_left",
+          "upd": {
+            "Repairable": {
+              "Durability": 6.59254,
+              "MaxDurability": 7.59254
+            }
+          }
+        },
+        {
+          "_id": "6936b84870c658b9b031a987",
+          "_tpl": "66b88521a7f72d197e70be3b",
+          "parentId": "6936b84870c658b9b031a980",
+          "slotId": "soft_armor_right",
+          "upd": {
+            "Repairable": {
+              "Durability": 7.23955,
+              "MaxDurability": 7.23955
+            }
+          }
+        },
+        {
+          "_id": "6936b84870c658b9b031a983",
+          "_tpl": "66b884fd7994640992013b37",
+          "parentId": "6936b84870c658b9b031a980",
+          "slotId": "Groin",
+          "upd": {
+            "Repairable": {
+              "Durability": 15.04907,
+              "MaxDurability": 15.04907
+            }
+          }
+        },
+        {
+          "_id": "6936e282e3a57346e0c6fb6e",
+          "_tpl": "55d480c04bdc2d1d4e8b456a",
+          "parentId": "6936b84870c658b9b031a980",
+          "slotId": "5",
+          "location": {
+            "x": 0,
+            "y": 0,
+            "r": "Horizontal"
+          }
+        },
+        {
+          "_id": "6936c8bbe3a57346e0c254a1",
+          "_tpl": "55d480c04bdc2d1d4e8b456a",
+          "parentId": "6936b84870c658b9b031a980",
+          "slotId": "6",
+          "location": {
+            "x": 0,
+            "y": 0,
+            "r": "Horizontal"
+          }
+        },
+        {
+          "_id": "6936b84870c658b9b031a588",
+          "_tpl": "56e335e4d2720b6c058b456d",
+          "parentId": "6934469df3f1df588453a852",
+          "slotId": "Backpack"
+        },
+        {
+          "_id": "6936e282e3a57346e0c703f4",
+          "_tpl": "55d480c04bdc2d1d4e8b456a",
+          "parentId": "6934469df3f1df588453a875",
+          "slotId": "pocket2",
+          "location": {
+            "x": 0,
+            "y": 0,
+            "r": "Horizontal"
+          }
+        },
+        {
+          "_id": "6934469df3f1df588453a8f2",
+          "_tpl": "5c165d832e2216398b5a7e36",
+          "parentId": "6934469df3f1df588453a852",
+          "slotId": "Earpiece"
+        }
+      ]
+    },
+    {
+      "scheduledTime": 1765342643,
+      "traderId": "54cb50c76803fa8b248b4571",
+      "maxStorageTime": 345600,
+      "systemData": {
+        "date": "09.12.2025",
+        "time": "02:07",
+        "location": "factory4_day"
+      },
+      "messageType": 8,
+      "messageTemplateId": "58fe0e4586f774728248ca13 1",
+      "items": [
+        {
+          "_id": "6934469df3f1df588453a9a7",
+          "_tpl": "5e870397991fd70db46995c8",
+          "parentId": "6934469df3f1df588453a852",
+          "slotId": "FirstPrimaryWeapon",
+          "upd": {
+            "Repairable": {
+              "Durability": 99.75604,
+              "MaxDurability": 100
+            },
+            "FireMode": {
+              "FireMode": "single"
+            }
+          }
+        },
+        {
+          "_id": "6934469df3f1df588453a9a8",
+          "_tpl": "5e87071478f43e51ca2de5e1",
+          "parentId": "6934469df3f1df588453a9a7",
+          "slotId": "mod_barrel"
+        },
+        {
+          "_id": "6934469df3f1df588453a9a9",
+          "_tpl": "5e8708d4ae379e67d22e0102",
+          "parentId": "6934469df3f1df588453a9a8",
+          "slotId": "mod_sight_front",
+          "upd": {
+            "Sight": {
+              "ScopesCurrentCalibPointIndexes": [
+                0
+              ],
+              "ScopesSelectedModes": [
+                0
+              ],
+              "SelectedScope": 0,
+              "ScopeZoomValue": 0
+            }
+          }
+        },
+        {
+          "_id": "6934469df3f1df588453a9aa",
+          "_tpl": "5e87076ce2db31558c75a11d",
+          "parentId": "6934469df3f1df588453a9a7",
+          "slotId": "mod_handguard"
+        },
+        {
+          "_id": "6934469df3f1df588453a9ab",
+          "_tpl": "5e87080c81c4ed43e83cefda",
+          "parentId": "6934469df3f1df588453a9a7",
+          "slotId": "mod_magazine"
+        },
+        {
+          "_id": "6934469df3f1df588453a9ad",
+          "_tpl": "5e87116b81c4ed43e83cefdd",
+          "parentId": "6934469df3f1df588453a9a7",
+          "slotId": "mod_stock"
+        },
+        {
+          "_id": "6934469df3f1df588453a9ae",
+          "_tpl": "5e87114fe2db31558c75a120",
+          "parentId": "6934469df3f1df588453a9a7",
+          "slotId": "mod_mount",
+          "upd": {
+            "Sight": {
+              "ScopesCurrentCalibPointIndexes": [
+                0
+              ],
+              "ScopesSelectedModes": [
+                0
+              ],
+              "SelectedScope": 0,
+              "ScopeZoomValue": 0
+            }
+          }
+        }
+      ]
     }
   ],
   "btrDelivery": [],
@@ -16980,12 +16062,7 @@
     "5935c25fb3acc3127c3d8cd9": {},
     "58330581ace78e27b8b10cee": {},
     "54cb50c76803fa8b248b4571": {},
-    "5a7c2eca46aef81a7ca2145d": {
-      "686e342e6c2a18ed6b0e983a": {
-        "count": 1,
-        "purchaseTimestamp": 1765208469
-      }
-    },
+    "5a7c2eca46aef81a7ca2145d": {},
     "5c0647fdd443bc2504c2d371": {},
     "6617beeaa9cfa777ca915b7c": {},
     "54cb57776803fa99248b456e": {},
